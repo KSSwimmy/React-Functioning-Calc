@@ -5,13 +5,13 @@
    align-items: center;
    font-weight: lighter;
    font-size: 1.4em;
-   background-color: #e0e1e6;
-   color: #888;
+   background-color: #130023;
+   color: rgb(136, 0, 255);
    flex: 1;
-   outline: 1px solid #888;
+   outline: 1px solid rgb(255, 171, 26);
 }
 
 .operator {
-    background-color: #fe9231;
+    background-color: #FA0C6E;
     color: white;
 }

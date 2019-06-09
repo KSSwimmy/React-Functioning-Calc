@@ -25,6 +25,8 @@ handleEqual = () => {
   render() {
   return (
   <div className="App">
+        <h1 className="showOffHeader">WELCOME TO KIMBERLY'S FUNCTIONAL CALC <br></br> CREATED USING REACT JS</h1>
+
       <div className="calc-wrapper">
         <Input input={this.state.input}></Input>
         <div className="row">
